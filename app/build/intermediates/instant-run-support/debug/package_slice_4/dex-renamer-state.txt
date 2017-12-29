@@ -1,0 +1,4 @@
+#Fri Dec 29 08:10:32 WIB 2017
+base.0=/Users/nandoseptianhusni/Downloads/Archive 2/Archive/AnkoKotlinAndroid/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
